@@ -1,4 +1,4 @@
-# Base 이미지
+# Base 이미지 dddd
 FROM python:3.12-slim
 
 # 2. 작업 디렉토리를 /app으로 설정
